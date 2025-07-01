@@ -31,4 +31,36 @@ Profit
 
 
 PHASE 2
-DATA PREPARATION
+DATA PREPARATION & FEATURE ENGINEERING
+
+1. Transaction Info
+Delivery Lead Time
+Year, Quarter, Month, and Day
+Average Order Value
+
+2. Customer Info
+Customer Lifetime Value
+Repeat Customer Rate
+
+3. Location Info
+
+
+4. Product Info
+
+
+5. Sales Info
+Sales Growth Rate
+Discount Conversion Rate
+
+6. Main guys
+Total Sales
+Total Profit
+Profit Margin
+
+
+
+
+
+
+
+
