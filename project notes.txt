@@ -1,0 +1,34 @@
+PHASE 1
+DATA UNDERSTANDING
+
+1. Understanding the data
+2. Grasp the business context
+
+Categories:
+1. Transaction Info
+2. Customer Info
+3. Location Info
+4. Product Info
+5. Sales Info
+
+Anomalies:
+--> returns
+--> high discount
+
+GOAL:
+SALES PERFORMANCE ANALYSIS
+
+Sales
+Profit
+
+
+
+# No missing values
+
+# We have negative profits - loss
+--> returns
+--> high discount
+
+
+PHASE 2
+DATA PREPARATION
